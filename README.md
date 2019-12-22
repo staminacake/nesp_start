@@ -1,17 +1,19 @@
 # NESP - Polimorfisms and Database Architecture
 
-This is a starter kit for [Stamina Cake's](https://www.staminacake.com) course: [Database Architecture with Polimorfisms, Building a Blog API with _Node.js, Express.js, Sequelize.js and PostgreSQL_](https://www.staminacake.com)
+This is a starter kit for [Stamina Cake's](https://www.staminacake.com) course: [Database Architecture with Polimorfisms, Building a Blog API with _Node.js, Express.js, Sequelize.js and PostgreSQL_](https://www.staminacake.com).
+
+Everything you need to succeed in this project is already in you! And we encourage people to go after the resources which are public and, we think, will ever be. However if you need a little pull, we can help you.
 
 #### Table of Contents
 
-1. [Objective](#1)
-2. [Structure](#2)
-3. [How to study](#3)
+1. [Objective](#1.-objective)
+2. [Structure](#2.-structure)
+3. [How to study](#3.-how-to-study)
    1. Installation
    2. Following the Course Class
    3. Pull Requests [**for enrolled students only**]
-4. [Links and Usefull Tips](#4)
-5. [Important Notes](#5)
+4. [Links and Usefull Tips](#4.-links-and-usefull-tips)
+5. [Important Notes](#5.-importante-notes)
 
 ---
 
@@ -41,7 +43,7 @@ By the end of this course you will have created a fully working simple blog api 
 
 ### 2. Structure
 
-This project starts with a basic folder structure and files[^1] as follows:
+This project starts with a basic folder structure and files<sup id="a1">[1](#f1)</sup> as follows:
 
 ```
 .
@@ -70,7 +72,7 @@ This project starts with a basic folder structure and files[^1] as follows:
             generic-controller.js
 ```
 
-[^1]: .gitkeep files can only be deleted once there is a file living inside its parent folder
+<b id="f1">1</b>: .gitkeep files can only be deleted once there is a file living inside its parent folder
 
 And, by the end of your couse it will look like the following:
 
@@ -163,9 +165,32 @@ To help you with that we've already prepared the files where they belong with so
 
 2. Following the Course Class
 
-3. Pull Requests
+It is important that you code along at the class. Even though we want, hard, that you succeed we will not provide any sort of step-by-step content which is not that presented during the course. That is what separates jr. from seasoned developers: your ability to focus on a concept and then go after the plentfull resources.
 
-You can always check how well you are doing by comparing your code with...
+So code along, understand the concepts and then practice again with this "not so empty" repository!
+
+3. Issues
+
+[Issues](https://help.github.com/en/github/managing-your-work-on-github/about-issues) are a great way to ask and get answers if you need help of any sort (regarding code!). **You will most likely get an answer from us** or from our community, since answering others questions is the best way to learn feel free to navigate on this repo issues list to see what are the most tricky questions and their best solutions.
+
+Remember, as an engineer you are a problem solver. You gain experience by doing that, even though you do in a small scale.
+
+4. Pull Requests
+
+If you enrolled in this course you will be able to add [Pull Requests](https://help.github.com/pt/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to the main code. Although we will not merge the content it is a good way for us to tell if you got the idea we were trying to pass along.
+
+In order for us to evaluate your Pull Requests please notice that:
+
+- Your code is complete, regarding the topics covered in class
+- You have all the Controllers, Models and Migrations
+
+What we will evaluate:
+
+- Clean Code
+- Completeness
+- ...
+
+You can always check how well you are doing by comparing your code with the other peers who have studied with us!
 
 ### 4. Links and Usefull Tips
 
@@ -201,4 +226,8 @@ To undo a previously ran migration.
 
 ### 5. Important Notes
 
-This repository is shared as is and it is a part of a private course. Feel free to explore the starter kit and the rules mentioned described above to explore
+This repository is shared as is and it is a part of a private course. Feel free to explore the starter kit and the rules described above to explore and code by yourself.
+
+However if you feel you need any mentorship feel free to contact us at [contato@staminacake.com](mailto:contato@staminacake.com?subject=[NESP]%20Quero%20aprender!).
+
+Presently we teach in [São Paulo, Brazil](https://www.staminacake.com)!
