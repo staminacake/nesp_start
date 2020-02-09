@@ -1,0 +1,3 @@
+/**
+ * DATABASE CONFIG FILE
+ */

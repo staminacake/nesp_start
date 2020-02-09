@@ -1,0 +1,15 @@
+/**
+ * ###################### SEQUELIZERC ##################################
+ * This file controls Sequelize-CLI paths for actions within the command
+ * line and it is not created by running: npm sequelize init.
+ * It will serve as a bridge to point to:
+ *
+ * migrations
+ * seeders
+ * models
+ * config
+ *
+ * module.exports = {
+ *  "migrations-path": path.resolve(['folder_1', 'folder_2', 'migrations'])
+ * }
+ */
